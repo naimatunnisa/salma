@@ -124,6 +124,7 @@ header .navbar {
   height: auto;
   display: block;
   object-fit: contain;
+  margin-left: 10px;
 }
 
 .navbar  .nav-header {
@@ -1325,5 +1326,6 @@ tr:hover {
   margin-bottom: 20px;
   font-size: var(--font-size-m);
 }
+
 
 
